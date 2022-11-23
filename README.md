@@ -1,4 +1,2 @@
-# yandex-lessons
-My solutions for exercises
-Че, каво
-Это мои решения задач с яндекс лицея
+# my skills
+Что я умею делать
