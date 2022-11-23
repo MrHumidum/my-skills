@@ -4,4 +4,4 @@ s = ' '
 while num > 0:
     s += str(num % num2)
     num //= num2
-print(s)
+print(s[::-1])
