@@ -1,7 +1,0 @@
-num = int(input('Какое число хотите перевести: '))
-num2 = int(input('В какую систему счисления? '))
-s = ' '
-while num > 0:
-    s += str(num % num2)
-    num //= num2
-print(s[::-1])
